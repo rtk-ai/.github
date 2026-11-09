@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rtk-ai/.github/main/profile/rtk-banner.png" alt="RTK — Rust Token Killer. Fewer tokens, more possibilities.">
+  <img src="https://raw.githubusercontent.com/rtk-ai/.github/main/profile/rtk-banner.png" alt="RTK, Rust Token Killer. Fewer tokens, more possibilities.">
 </p>
 
 <p align="center">
