@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070c1a"/><stop offset="1" stop-color="#061a21"/>
+  </linearGradient>
+  <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#4af0b0"/><stop offset="1" stop-color="#00c98a"/>
+  </linearGradient>
+  <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+    <stop offset="0" stop-color="#19d98a" stop-opacity="0.30"/>
+    <stop offset="0.55" stop-color="#19d98a" stop-opacity="0.08"/>
+    <stop offset="1" stop-color="#19d98a" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#30e8a0" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#30e8a0" stop-opacity="0.26"/>
+    <stop offset="1" stop-color="#30e8a0" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="9"/></filter>
+  <clipPath id="clip"><rect width="1200" height="620" rx="40"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="620" fill="url(#bg)"/>
+  <g stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"><path d="M60 0V620"/><path d="M120 0V620"/><path d="M180 0V620"/><path d="M240 0V620"/><path d="M300 0V620"/><path d="M360 0V620"/><path d="M420 0V620"/><path d="M480 0V620"/><path d="M540 0V620"/><path d="M600 0V620"/><path d="M660 0V620"/><path d="M720 0V620"/><path d="M780 0V620"/><path d="M840 0V620"/><path d="M900 0V620"/><path d="M960 0V620"/><path d="M1020 0V620"/><path d="M1080 0V620"/><path d="M1140 0V620"/><path d="M0 60H1200"/><path d="M0 120H1200"/><path d="M0 180H1200"/><path d="M0 240H1200"/><path d="M0 300H1200"/><path d="M0 360H1200"/><path d="M0 420H1200"/><path d="M0 480H1200"/><path d="M0 540H1200"/><path d="M0 600H1200"/></g>
+  <rect x="299" y="0" width="2" height="620" fill="url(#beam)"/>
+  <circle cx="300" cy="310" r="300" fill="url(#halo)"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="619" rx="40" fill="none" stroke="#ffffff" stroke-opacity="0.09"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <g filter="url(#blur)" opacity="0.75"><path d="M237 227h126a22 22 0 0 1 22 22v126a22 22 0 0 1-22 22H237a22 22 0 0 1-22-22V249a22 22 0 0 1 22-22z" stroke="#30e8a0" stroke-width="16" /><path d="M252 199v28" stroke="#30e8a0" stroke-width="16" /><path d="M300 199v28" stroke="#30e8a0" stroke-width="16" /><path d="M348 199v28" stroke="#30e8a0" stroke-width="16" /><path d="M252 397v28" stroke="#30e8a0" stroke-width="16" /><path d="M300 397v28" stroke="#30e8a0" stroke-width="16" /><path d="M348 397v28" stroke="#30e8a0" stroke-width="16" /><path d="M187 262h28" stroke="#30e8a0" stroke-width="16" /><path d="M187 312h28" stroke="#30e8a0" stroke-width="16" /><path d="M187 362h28" stroke="#30e8a0" stroke-width="16" /><path d="M385 262h28" stroke="#30e8a0" stroke-width="16" /><path d="M385 312h28" stroke="#30e8a0" stroke-width="16" /><path d="M385 362h28" stroke="#30e8a0" stroke-width="16" /><path d="M268 282h64" stroke="#30e8a0" stroke-width="16" /><path d="M268 342h64" stroke="#30e8a0" stroke-width="16" /><path d="M348 199v-30h40" stroke="#30e8a0" stroke-width="16" /><path d="M252 425v30h-40" stroke="#30e8a0" stroke-width="16" /><path d="M268 312h64" stroke="#30e8a0" stroke-width="18" /></g>
+  <path d="M237 227h126a22 22 0 0 1 22 22v126a22 22 0 0 1-22 22H237a22 22 0 0 1-22-22V249a22 22 0 0 1 22-22z" stroke="#f6f8fb" stroke-width="9" /><path d="M252 199v28" stroke="#f6f8fb" stroke-width="9" /><path d="M300 199v28" stroke="#f6f8fb" stroke-width="9" /><path d="M348 199v28" stroke="#f6f8fb" stroke-width="9" /><path d="M252 397v28" stroke="#f6f8fb" stroke-width="9" /><path d="M300 397v28" stroke="#f6f8fb" stroke-width="9" /><path d="M348 397v28" stroke="#f6f8fb" stroke-width="9" /><path d="M187 262h28" stroke="#f6f8fb" stroke-width="9" /><path d="M187 312h28" stroke="#f6f8fb" stroke-width="9" /><path d="M187 362h28" stroke="#f6f8fb" stroke-width="9" /><path d="M385 262h28" stroke="#f6f8fb" stroke-width="9" /><path d="M385 312h28" stroke="#f6f8fb" stroke-width="9" /><path d="M385 362h28" stroke="#f6f8fb" stroke-width="9" /><path d="M268 282h64" stroke="#f6f8fb" stroke-width="9" /><path d="M268 342h64" stroke="#f6f8fb" stroke-width="9" /><path d="M348 199v-30h40" stroke="#f6f8fb" stroke-width="9" /><path d="M252 425v30h-40" stroke="#f6f8fb" stroke-width="9" />
+  <path d="M268 312h64" stroke="url(#g)" stroke-width="11" />
+</g>
+<g filter="url(#blur)" opacity="0.9"><circle cx="388" cy="169" r="11" fill="#30e8a0"/><circle cx="212" cy="455" r="11" fill="#30e8a0"/></g>
+<circle cx="388" cy="169" r="7" fill="#4af0b0"/><circle cx="212" cy="455" r="7" fill="#4af0b0"/>
+<text x="560" y="192" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="36" letter-spacing="11" fill="#9aa4ba">MEMORY</text>
+<text x="560" y="318" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="140" font-weight="700" letter-spacing="-4" fill="#f3f5f9">ICM</text>
+<text x="560" y="392" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="600" letter-spacing="-1" fill="url(#g)">Give your agents</text><text x="560" y="452" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="54" font-weight="600" letter-spacing="-1" fill="url(#g)">a memory.</text>
+</svg>
