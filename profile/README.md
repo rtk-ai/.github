@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <strong>The cost reduction engine for AI coding agents.</strong>
+  <strong>One engine next to every AI coding agent. Two products, two audiences.</strong>
   <br>
-  Install it and forget it, then go as far as you want with pipelines.
+  RTK for developers, free and open source. RTK Pro for companies, the control layer.
 </p>
 
 <p align="center">
@@ -17,17 +17,38 @@
   <a href="https://discord.gg/RySmvNF5kF">Discord</a>
 </p>
 
-## [RTK](https://github.com/rtk-ai/rtk)
+<table>
+<tr>
+<th width="50%" align="left">For developers: <a href="https://github.com/rtk-ai/rtk">RTK</a></th>
+<th width="50%" align="left">For companies: <a href="https://pro.rtk-ai.app">RTK Pro</a></th>
+</tr>
+<tr valign="top">
+<td>
 
-**① Install & forget: up to 90% less command output.** Test runs, diffs, logs and builds are compressed before your agent reads them. 100+ commands, no config, nothing changes in how you work. `rtk gain` shows what you saved.
+**The cost reduction engine for AI coding agents.**
 
-**② Go further with pipelines, as far as you take it.** Hand heavy reads to a cheaper model, compress more than bash, clean the API traffic without breaking the prompt cache. One agent-agnostic file: start from a built-in, install one someone shared, or write and share your own. [rtk-ai.app/pipelines](https://www.rtk-ai.app/pipelines/) lists them with what each one saved and how it was measured.
+**① Install & forget.** Test runs, diffs, logs and builds are compressed before your agent reads them: 100+ commands, up to 90% less command output, no config. `rtk gain` shows what you saved.
 
-Works in Claude Code, Cursor, Codex, Gemini CLI, Copilot and 13 more. Free and open source, built with 200+ contributors.
+**② Go further with pipelines.** One agent-agnostic file to hand heavy reads to a cheaper model, compress more than bash, or clean the API traffic. Start from a built-in, install one someone shared, or write and share your own.
 
-## [RTK Pro](https://pro.rtk-ai.app)
+Works in Claude Code, Cursor, Codex, Gemini CLI, Copilot and 13 more. Built with 200+ contributors.
 
-**Agents across the whole company?** RTK runs on each developer's machine. RTK Pro connects them into one control layer, through a company gateway that every AI call goes through, whichever provider each team uses: spend by team, person and model with budgets, secrets and personal data masked before any model sees them, risky commands stopped before they run, a team catalog of skills, MCP servers and pipelines, and an audit log of who did what. A Dev plan for one developer; Teams, Business and Enterprise for companies. The CLI stays free and open source.
+[Install](https://github.com/rtk-ai/rtk#install--forget) &bull; [Pipelines](https://www.rtk-ai.app/pipelines/) &bull; [Docs](https://www.rtk-ai.app/docs/)
+
+</td>
+<td>
+
+**The control layer for every AI agent in your company.**
+
+**Agents across the whole company?** RTK runs on each developer's machine. RTK Pro connects them through a company gateway that every AI call goes through, whichever provider each team uses: spend by team, person and model with budgets, secrets and personal data masked before any model sees them, risky commands stopped before they run, a team catalog of skills, MCP servers and pipelines, and an audit log of who did what.
+
+A Dev plan for one developer. Teams, Business and Enterprise for companies, up to on-premise deployment. The CLI stays free and open source.
+
+[Discover RTK Pro](https://pro.rtk-ai.app) &bull; [Plans](https://pro.rtk-ai.app/pricing) &bull; [Talk to us](https://pro.rtk-ai.app/contact)
+
+</td>
+</tr>
+</table>
 
 ## Also from RTK AI Labs
 
