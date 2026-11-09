@@ -31,7 +31,7 @@ What one agent learns on Monday, the next session knows on Tuesday, whichever to
 
 ### [RTK Pro](https://pro.rtk-ai.app) &nbsp;·&nbsp; the control layer for every AI agent in your company
 
-RTK runs on each developer's machine. RTK Pro connects them: spend by team, person and model with budgets, secrets and personal data masked before any model sees them, risky commands stopped, a team catalog of skills, MCP servers and pipelines, and an audit log. The CLI stays free and open source.
+RTK runs on each developer's machine. RTK Pro connects them through a company gateway that every AI call goes through, whichever provider each team uses: spend by team, person and model with budgets, secrets and personal data masked before any model sees them, risky commands stopped before they run, a team catalog of skills, MCP servers and pipelines, and an audit log of who did what. The CLI stays free and open source.
 
 ## Join in
 
