@@ -19,49 +19,17 @@
 
 <table>
 <tr>
-<th width="34%" align="left"><a href="https://github.com/rtk-ai/rtk">RTK</a> &nbsp;·&nbsp; less cost</th>
-<th width="33%" align="left"><a href="https://pro.rtk-ai.app">RTK Pro</a> &nbsp;·&nbsp; control</th>
-<th width="33%" align="left"><a href="https://github.com/rtk-ai/icm">ICM</a> &nbsp;·&nbsp; memory</th>
+<td width="33%"><a href="https://github.com/rtk-ai/rtk"><img src="https://raw.githubusercontent.com/rtk-ai/.github/main/profile/card-rtk.png" alt="RTK, free and open source. Less cost. The cost reduction engine for AI coding agents: install and forget, up to 90% less command output; pipelines delegate reads, compress more, clean API traffic; rtk gain shows what you saved. Claude Code, Cursor, Codex, Gemini CLI and 14 more."></a></td>
+<td width="33%"><a href="https://pro.rtk-ai.app"><img src="https://raw.githubusercontent.com/rtk-ai/.github/main/profile/card-pro.png" alt="RTK Pro, AI control layer. Stay in control. The control layer for every AI agent, for one developer or the whole company: one gateway for every AI call, whichever provider; spend and budgets, Shield, policies; team catalog and audit log. On each developer's machine, no secret value leaves it."></a></td>
+<td width="33%"><a href="https://github.com/rtk-ai/icm"><img src="https://raw.githubusercontent.com/rtk-ai/.github/main/profile/card-icm.png" alt="ICM, free and open source. A memory. Long-term memory for AI coding agents, shared across your tools: what one agent learns, the next session knows; one binary, one SQLite file, MCP native; no LLM call to store or recall a memory."></a></td>
 </tr>
-<tr valign="top">
-<td>
-
-**The cost reduction engine for AI coding agents.**
-
-Install it and forget it: test runs, diffs, logs and builds are compressed before your agent reads them, 100+ commands, up to 90% less command output. `rtk gain` shows what you saved.
-
-Then go further with pipelines: one agent-agnostic file to hand heavy reads to a cheaper model, compress more than bash, or clean the API traffic. Write yours, or install one from the community.
-
-Claude Code, Cursor, Codex, Gemini CLI, Copilot and 13 more. Free and open source, built with 200+ contributors.
-
-[Install](https://github.com/rtk-ai/rtk#install--forget) &bull; [Pipelines](https://www.rtk-ai.app/pipelines/) &bull; [Docs](https://www.rtk-ai.app/docs/)
-
-</td>
-<td>
-
-**The control layer for every AI agent, for one developer or the whole company.**
-
-A company gateway every AI call goes through, whichever provider each team uses: spend by team, person and model with budgets, secrets and personal data masked before any model sees them, risky commands stopped before they run, a team catalog of skills, MCP servers and pipelines, and an audit log of who did what.
-
-Runs on each developer's machine; never a secret value leaves it. A Dev plan for one developer; Teams, Business and Enterprise for companies, up to on-premise.
-
-[Discover RTK Pro](https://pro.rtk-ai.app) &bull; [Plans](https://pro.rtk-ai.app/pricing) &bull; [Talk to us](https://pro.rtk-ai.app/contact)
-
-</td>
-<td>
-
-**Long-term memory for AI coding agents, shared across your tools.**
-
-What one agent learns on Monday, the next session knows on Tuesday, whichever tool it runs in: decisions, fixes, conventions and preferences kept in one binary and one SQLite file, shared over MCP, with no LLM call to store or recall a memory.
-
-Free and open source.
-
-[ICM](https://github.com/rtk-ai/icm) &bull; [Releases](https://github.com/rtk-ai/icm/releases/latest)
-
-</td>
+<tr>
+<td align="center"><a href="https://github.com/rtk-ai/rtk#install--forget">Install</a> &bull; <a href="https://www.rtk-ai.app/pipelines/">Pipelines</a> &bull; <a href="https://www.rtk-ai.app/docs/">Docs</a></td>
+<td align="center"><a href="https://pro.rtk-ai.app">Discover RTK Pro</a> &bull; <a href="https://pro.rtk-ai.app/pricing">Plans</a> &bull; <a href="https://pro.rtk-ai.app/contact">Talk to us</a></td>
+<td align="center"><a href="https://github.com/rtk-ai/icm">Repository</a> &bull; <a href="https://github.com/rtk-ai/icm/releases/latest">Releases</a></td>
 </tr>
 </table>
 
-## Join in
-
-Every RTK filter was written against real command output by a contributor, pipelines are shared the same way, and ICM is built in the open too. [Contributing](https://github.com/rtk-ai/rtk/blob/master/CONTRIBUTING.md) &bull; [Security](https://github.com/rtk-ai/rtk/blob/master/SECURITY.md) &bull; [Discord](https://discord.gg/RySmvNF5kF) &bull; contact@rtk-ai.app
+<p align="center">
+  Built in the open with 200+ contributors. <a href="https://github.com/rtk-ai/rtk/blob/master/CONTRIBUTING.md">Contributing</a> &bull; <a href="https://github.com/rtk-ai/rtk/blob/master/SECURITY.md">Security</a> &bull; <a href="mailto:contact@rtk-ai.app">contact@rtk-ai.app</a>
+</p>
